@@ -4,7 +4,7 @@
   "env": {
     "MONGODB_URI": {
       "description": "The MongoDB Connection String to connect to your MongoDB cluster. If you don't have this from MongoDB Atlas, please re-read installation instructions at http://nightscout.github.io/nightscout/new_user/ before continuing",
-      "value": "",
+      "value": "mongodb+srv://sbravo:2hfamilY@cluster0.geb9f.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     },
     "ALARM_HIGH": {
